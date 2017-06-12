@@ -6,3 +6,4 @@ This repository contains my assignments
 [assignment 4](https://github.com/ThomLewicz/assignments/blob/master/assignment4.ipynb)
 [assignment 5](https://github.com/ThomLewicz/assignments/blob/master/assignment5.ipynb)
 [final assignment Python](https://github.com/ThomLewicz/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+[final R assignment](https://github.com/tfurrer98/assignments/blob/master/OECD_R_exam.ipynb)
